@@ -16,9 +16,9 @@ Find the neighborhood that the City of Pittsburgh supports artistic design in th
 
 ## Results
 
-![Graph of Score per Neighborhood](../my-cmpinf0010-final-project/chart.png)
+![Graph of Score per Neighborhood](/chart.png)
 
-![Map of Neighborhoods Colored by Score with Art Markers](../my-cmpinf0010-final-project/map.png)
+![Map of Neighborhoods Colored by Score with Art Markers](/map.png)
 
 |Rank|Neighborhood|
 |---|:--|
